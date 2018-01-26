@@ -1,3 +1,7 @@
-# **Homework 1**
+# Homework 1
 
-## _Answer 1_
+
+
+
+
+* Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty. *
