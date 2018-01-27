@@ -18,7 +18,7 @@ Examples: Due to "invisibility", a client might want a product that is very diff
 
 ### Answer:
 
-Let us consider the inherent properties of this irreducible essence of modern software systems: complexity, conformity, changeability, and invisibility.
+Brooks lists the essential difficulties in developing software systems as: *complexity, conformity, changeability, and invisibility.*
 
 **Complexity.** Software entities are more complex for their size than perhaps any other human construct because no two parts are alike (at least above the statement level). If they are, we make the two similar parts into a subroutine—open or closed. In this respect, software systems differ profoundly from computers, buildings, or automobiles, where repeated elements abound.
 
