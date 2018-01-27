@@ -1,7 +1,7 @@
 # **Homework 1**
 ## *Assignment 1*
 
-### Question> Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
+### Question 1> Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
 ### Answer:
 
