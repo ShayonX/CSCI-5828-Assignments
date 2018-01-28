@@ -1,5 +1,8 @@
 # **Homework 1**
-
+### Collaborators
+* ### Prashil Bhimani
+* ### Shayon Gupta
+---
 ### Question 1 : Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
 ### Answer:
@@ -74,7 +77,7 @@ Brooks define the siler bullet as :
 
 In other words, any advancement in technology to build softwares or managning the complicated process of software engineering will not lead to ten fold increase in either the output  of the software or the quality or the reduction in its complexity. 
 
-
+# Shayon help here
 
 ### Question 5 : In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
