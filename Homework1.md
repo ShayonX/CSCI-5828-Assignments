@@ -72,12 +72,12 @@ In spite of progress in restricting and simplifying the structures of software, 
 
 ### Answer:
 
-Brooks define the siler bullet as :
+Brooks define the silver bullet as:
 > There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.
 
-In other words, any advancement in technology to build softwares or managning the complicated process of software engineering will not lead to ten fold increase in either the output  of the software or the quality or the reduction in its complexity. 
+In other words, any advancement in technology to build software or managing the complicated process of software engineering will not lead to 10-fold increase in either the output of the software or the quality or the reduction in its complexity. 
 
-# Shayon help here
+Brooks believe that most of the advancements like high level languages, OOPs concepts, AI, development environments etc. are attacking the accidental difficulties and not essential difficulties. And supposing even if 90 % of all the difficulties are accidental difficulties and we come up with a perfect solution to achieve a 10-fold improvement Brooks believe that no solution is perfect and any new technology or solution will have its own issue and that accidental difficulties do not contribute to 90% of the overall difficulties. Hence Brooks feels to achieve a revolutionary 10-fold increase is not achievable and thus there is no silver bullet.
 
 ### Question 5 : In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
