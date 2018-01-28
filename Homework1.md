@@ -65,7 +65,17 @@ The reality of software is not inherently embedded in space. Hence, it has no re
 
 In spite of progress in restricting and simplifying the structures of software, they remain inherently unvisualizable, and thus do not permit the mind to use some of its most powerful conceptual tools. This lack not only impedes the process of design within one mind, it severely hinders communication among minds.
 
-### Question 5> In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
+### Question 4 : Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
+
+### Answer:
+
+Brooks define the siler bullet as :
+> There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.
+In other words, any advancement in technology to build softwares or managning the complicated process of software engineering will not lead to ten fold increase in either the output  of the software or the quality or the reduction in its complexity. 
+
+
+
+### Question 5 : In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
 ### Answer:
 
