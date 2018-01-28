@@ -1,6 +1,6 @@
 # **Homework 1**
 
-### Question 1> Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
+### Question 1 : Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
 ### Answer:
 
@@ -13,6 +13,10 @@ Brooks explains that the hard part of building software is the specification, de
 This is the reason he believes that building a software will always be very difficult and there is "No Silver Bullet" to solve these problems.
 
 Examples: Due to "invisibility", a client might want a product that is very difficult to implement. For this example let us consider a product that needs language modelling abilities using recurring neural networks. The client thinks modeling a language is very easy and is willing to pay a fraction of the cost of the product (as the client does not understand the underelying "complexity" of the product he wants).
+
+### Question 2 : Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
+
+### Answer:
 
 ### Question 3> List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
 
