@@ -17,6 +17,11 @@ Examples: Due to "invisibility", a client might want a product that is very diff
 ### Question 2 : Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
 
 ### Answer:
+Brooks in his paper takes about the various difficulties that has lead to no solutuion that will lead to a magnitutde if improvement in its productivity, reliability and simplicity. Further categorizing the difficulties in 2 parts namely essiential and accidental diffulties he states that accidental difficulties are the one that most of the solutions are attacking and it won't be enough just to solve them.
+
+According to Brooks, accidental deifficulties are the one which are not inherent to the process of software development but are a part of a particular solution that is proposed to solve it. In the view of Brooks, accidental difficulties can be elemented if we choose a different solution that will solve that particular accidental difficulty. But as no solution is 100% accurate it is safe to say that a new solution willlead to new accidental difficulties. So any solution is not capable to solve all accidental difficulties. 
+
+In his paper Brooks has given multiple examples of solutions that solved accidental difficulties. One of the most prominent being high level progamming languages. It was one the major accidental difficulties. Writing in ancient languages that were prone to many syntax errors and had verbose syntax for many functionalities which newer languages like Python and C++ has made to be be compact and less prone to errors. Syntax errors are a type of accidental difficulty as it is not inherent to the process of software development but is caused by human errros. Current set of high level progamming languages are also not immune to the the accidental difficulties but they are definetly reduced as compared to the ancient low level programming languages.
 
 ### Question 3> List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
 
