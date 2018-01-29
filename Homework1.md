@@ -64,7 +64,7 @@ Brooks explains, "The software product is embedded in a cultural matrix of appli
 Example:
 1. The client is impressed by the functionality and user-friendly behaviour of a word processing software. Now the client wants the software to handle graphics to enable embedding pictures and videos in a document. This includes a vast number of changes that is beyond the periphery of the client's understanding of software systems.
 
-**Invisibility.** Software, by nature, is invisible and unvisualizable. Unlike building bluepirnts where the exact dimension of the final product an be scaled, visualized and perceived, in the software world such a comprehensible mechansim does not exist. For instance UML diagrams in theory can break software down into fundamental units, this itself encompasses 13 different types of diagrams as software system so indeed require 13 different aspects to be represented!
+**Invisibility.** Software, by nature, is invisible and unvisualizable. Unlike building bluepirnts where the exact dimension of the final product can be scaled, visualized and perceived, in the software world such a comprehensible mechansim does not exist. For instance UML diagrams in theory can break software down into fundamental units, this itself encompasses 13 different types of diagrams as software system so indeed require 13 different aspects to be represented!
 
 Thus to visualize the simplest of software systems a cluttered diagram of overlapping graphs spoils the effort. This makes visualization a futile exercise when it comes to software systems hence impairing the use of the powerful visual skills of human beings.
 
@@ -85,6 +85,10 @@ Brooks believe that most of the advancements like high level languages, OOPs con
 ### Question 5 : In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
 ### Answer:
+
+Professor Anderson when using the analogy between a chemist and chemical engineer explained that one develops the science and the other engineers and implements the science in real world products. For instance a team of chemists can develop a world class graphene battery that will last longer than a lithium ion battery. However, engineering a real world product from this concept that can be mass produced requires years and years of engineering effort.
+
+Similarly a computer scientist develops ideas and concepts that adheres to the laws of science, not necessarily something that can be used by the real world right away. A software engineer uses the concepts developed by the scientists to craft tools that can be used by the real world. This process of engineering differentiates what can be done in the laboratory to what is suitable and applicabe for the real world. Thus, as explained by Professor Anerson, "Software Engineering is the application of scientific principles (concieved by Computer Scientists) in the context of practical contraints."
 
 ### Question 6 : In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
 
