@@ -106,3 +106,10 @@ As Prof. Ken Anderson stated
 
 Leading from the actual requirements, the way to implement it, the software design, the test cases which are required to test the software, the actual implementation of test cases, the type of software life cycle needed to solve the issue all comes under specification. The code is also a kind of specification that will mention the actual implementation of how the problem will be solved.
 
+#### Translation
+
+Translation in software engineerning is to transalte the problem into smaller parts and then transalating those parts to even smaller parts till then can be solved individually. This type of transaltion is bascially diving down the level of absractions. Once the smaller level work are done we then transalte it to perfom higher level of work and so on till the problem is not solved. Translation not only occurs in programming but also in specification where we transalate one type of specification like the use case diagram to some other type of specification like the class diagram. The work of software engineer is to transalte various specifications and code so as to solve them.
+
+#### Iteration
+
+Iteration in software engineering is basically building the software in small parts and iterating it repeatedly. Such small iterations make sure that the software is working and so that any new feature or iteration added is not breaking the software. Iterations are done till the task is not complete. Iterations should be incorporated in everything software engineers do. This also helps in finding mistakes and solving them immediately. Every increment should be tested so that we make sure there are no mistakes in any iteration. Iterations in specifications and passing the iterations via your customer help in clarifying every detail of the software.
