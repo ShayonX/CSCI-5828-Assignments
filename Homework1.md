@@ -83,3 +83,26 @@ Brooks believe that most of the advancements like high level languages, OOPs con
 
 ### Answer:
 
+### Question 6 : In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+
+### Answer : 
+
+#### Abstraction 
+
+Abstraction is creating a layer of complexity which is easy for the user to understand hiding the underlying complexity of the system. There are multiple layers of abstraction on which software engineering takes place. API’s are very good examples of abstraction. It hides the internal complexity of how the problem was solved and only provides with an interface to solve the problem. Another very good example of abstraction is high level programming languages as they abstract the actual assembly level commands and provides with a neat interface in terms of high level syntax. Classes are also examples of abstractions (So basically the whole Object Oriented Programming)
+
+Abstraction is important in software engineering as it can break down the complexity of a large software to divide it into small problems which can be individually tacked and the solution to those problems used as a layer to solve bigger problems. As stated in a blog by the developers of Git-tower that one of the good practices of software development is to create internal API’s. 
+
+#### Conversations
+
+Conversations in software engineering is not just about 2 people talking, although it is very important, it is also about conversations via code or specifications or any other means. It is very important to have a proper conversation to improve the quality of the product and make sure it meets the requirements it was made for. An important example of software which employees large scale communication is Linux where thousands of programmers communicate via the code or the feature request or the issue requests to solve it and provide a robust software that is used in various critical tasks. Conversation between the clients, developers, marketers and various other stake holders is the key to good software specifications and software quality.
+
+#### Specification
+
+Softwares are fairly complex systems and for large scale software development it is very important that there is no ambiguity in the specification of the exact purpose of the software and how it behaves under various conditions. 
+
+As Prof. Ken Anderson stated
+> Everything in software engineering is specification. 
+
+Leading from the actual requirements, the way to implement it, the software design, the test cases which are required to test the software, the actual implementation of test cases, the type of software life cycle needed to solve the issue all comes under specification. The code is also a kind of specification that will mention the actual implementation of how the problem will be solved.
+
