@@ -45,11 +45,13 @@ Examples:
 2. Unforeseen complexity can lead to missed deadlines and escalation of softwares development cost.
 3. Management task becomes difficult as overview of the system turns out to be diabolical.
 
-**Conformity.** Software people are not alone in facing complexity. Physics deals with terribly complex objects even at the fundamental particle level. The physicist labors on, however, in a firm faith that there are unifying principles to be found, whether in quarks or in unified field theories. Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary.
+**Conformity.** Software systems due to its sense of invisibility is considered to be extremely malleable, hence whenever the need to conform to a system arises the first target is the software. This is a major problem as sometimes the deemed conformity seeks arbitrary changes imposed by a superior who is oblivious about the complex cascade of changes that will be needed in the software ensure it "conforms" to the new demands.
 
-No such faith comforts the software engineer. Much of the complexity that he must master is arbitrary complexity, forced without rhyme or reason by the many human institutions and systems to which his interfaces must conform. These differ from interface to interface, and from time to time, not because of necessity but only because they were designed by different people, rather than by God.
+Brooks points out thay, in most cases, much complexity comes from conformation to other interfaces; this complexity cannot be simplified out by any redesign of the software alone. The most important issue is there is no way to plan for arbitrary changes. Hence, due to the nature of software this is an inherent difficulty (an essential difficulty).
 
-In many cases, the software must conform because it is the most recent arrival on the scene. In others, it must conform because it is perceived as the most conformable. But in all cases, much complexity comes from conformation to other interfaces; this complexity cannot be simplified out by any redesign of the software alone.
+Examples:
+1. A client has a change in management and decides to overhaul the systems they use. This overhaul comes with a change in the companies they work with and hecne they demand the existing software needs to be updated with a new set of APIs ensuring their new partners become a part of the software.
+2. A new law is passed which imposes a new set of security conformities that every software must abide by. This leads to a race against time to update the security protocols within the set deadline.
 
 **Changeability.** The software entity is constantly subject to pressures for change. Of course, so are buildings, cars, computers. But manufactured things are infrequently changed after manufacture; they are superseded by later models, or essential changes are incorporated into later-serial-number copies of the same basic design. Call-backs of automobiles are really quite infrequent; field changes of computers somewhat less so. Both are much less frequent than modifications to fielded software.
 
