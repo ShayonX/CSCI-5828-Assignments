@@ -53,15 +53,16 @@ Examples:
 1. A client has a change in management and decides to overhaul the systems they use. This overhaul comes with a change in the companies they work with and hecne they demand the existing software needs to be updated with a new set of APIs ensuring their new partners become a part of the software.
 2. A new law is passed which imposes a new set of security conformities that every software must abide by. This leads to a race against time to update the security protocols within the set deadline.
 
-**Changeability.** The software entity is constantly subject to pressures for change. Of course, so are buildings, cars, computers. But manufactured things are infrequently changed after manufacture; they are superseded by later models, or essential changes are incorporated into later-serial-number copies of the same basic design. Call-backs of automobiles are really quite infrequent; field changes of computers somewhat less so. Both are much less frequent than modifications to fielded software.
+**Changeability.** Software systems are constantly required to be changed. Other creations of human beings like cars, buildings etc. are also subject to change. However in most case changes are confined to the superseding models or updates to the current model which is launched as a seprate entity.
 
-In part, this is so because the software of a system embodies its function, and the function is the part that most feels the pressures of change. In part it is because software can be changed more easily—it is pure thought-stuff, infinitely malleable. Buildings do in fact get changed, but the high costs of change, understood by all, serve to dampen the whims of the changers.
+The most challenging difficulty however is the fact that everyone sees and understands the cost involved with remodelling a building. In case of software unless the client has knowledge about software (which is rarely the case) it does not receive the same amount of consideration, as the amount of work required to make the necessary change is unfathomable by the client.
 
-All successful software gets changed. Two processes are at work. First, as a software product is found to be useful, people try it in new cases at the edge of or beyond the original domain. The pressures for extended function come chiefly from users who like the basic function and invent new uses for it.
+Moreover, in a project the functionality is what undergoes the change and software forms an integral part of that overhaul. Thus the pressure on software changes are greater than other aspects of the project.
 
-Second, successful software survives beyond the normal life of the machine vehicle for which it is first written. If not new computers, then at least new disks, new displays, new printers come along; and the software must be conformed to its new vehicles of opportunity.
+Brooks explains, "The software product is embedded in a cultural matrix of applications, users, laws, and machine vehicles. These all change continually, and their changes inexorably force change upon the software product."
 
-In short, the software product is embedded in a cultural matrix of applications, users, laws, and machine vehicles. These all change continually, and their changes inexorably force change upon the software product.
+Example:
+1. The client is impressed by the functionality and user-friendly behaviour of a word processing software. Now the client wants the software to handle graphics to enable embedding pictures and videos in a document. This includes a vast number of changes that is beyond the periphery of the client's understanding of software systems.
 
 **Invisibility.** Software is invisible and unvisualizable. Geometric abstractions are powerful tools. The floor plan of a building helps both architect and client evaluate spaces, traffic flows, views. Contradictions and omissions become obvious. Scale drawings of mechanical parts and stick-figure models of molecules, although abstractions, serve the same purpose. A geometric reality is captured in a geometric abstraction.
 
