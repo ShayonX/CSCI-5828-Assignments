@@ -99,22 +99,29 @@ Similarly a computer scientist develops ideas and concepts that adheres to the l
 
 #### Abstraction 
 
-Abstraction is creating a layer of complexity which is easy for the user to understand hiding the underlying complexity of the system. There are multiple layers of abstraction on which software engineering takes place. API’s are very good examples of abstraction. It hides the internal complexity of how the problem was solved and only provides with an interface to solve the problem. Another very good example of abstraction is high level programming languages as they abstract the actual assembly level commands and provides with a neat interface in terms of high level syntax. Classes are also examples of abstractions (So basically the whole Object Oriented Programming)
+Abstraction is the concept of concealing the innate complexity of a system with an additional layer. Software Engineering usually relies on multiple layers of abstraction. APIs are very good examples of abstraction. It hides the internal complexity of how the problem was solved and only provides an interface to solve the problem. Another example of abstraction is high level programming languages as they abstract the actual assembly level commands and provides with a neat interface in terms of high level syntax. Classes are also examples of abstractions (Abstraction is one of the key concepts in Object Oriented Programming).
 
-Abstraction is important in software engineering as it can break down the complexity of a large software to divide it into small problems which can be individually tacked and the solution to those problems used as a layer to solve bigger problems. As stated in a blog by the developers of Git-tower that one of the good practices of software development is to create internal API’s. 
+This concept is integral in software engineering as it can break down the complexity of a large software. Hence, dividing it into small problems which can be tackled individually. Thus, the solution to those problems use a layer (or layers) to solve much larger problems. As stated in a blog by the developers of Git-tower, "One of the best practices of software development is to create internal API’s". 
 
 #### Conversations
 
-Conversations in software engineering is not just about 2 people talking, although it is very important, it is also about conversations via code or specifications or any other means. It is very important to have a proper conversation to improve the quality of the product and make sure it meets the requirements it was made for. An important example of software which employees large scale communication is Linux where thousands of programmers communicate via the code or the feature request or the issue requests to solve it and provide a robust software that is used in various critical tasks. Conversation between the clients, developers, marketers and various other stake holders is the key to good software specifications and software quality.
+Conversations in software engineering is not just about 2 people talking, although that is also important, it is about conversations via code or specifications or any other means. It is very important to have a proper conversation (communication) to improve the quality of the product and make sure it meets the requirements it was made for. An important example of a software where employees engage in large scale communication is Linux where thousands of programmers communicate via the code or the feature request or the issue requests to solve it and provide a robust software that is used in various critical tasks. Conversation between the clients, developers, marketers and various other stake holders is the key to good software specifications and software quality.
 
 #### Specification
 
-Software are fairly complex systems and for large scale software development it is very important that there is no ambiguity in the specification of the exact purpose of the software and how it behaves under various conditions. 
+Software are fairly complex systems and for large scale software development it is very important that there is no ambiguity in the specification of the exact purpose of the software and how it behaves under various conditions.
 
 As Prof. Ken Anderson stated
 > Everything in software engineering is specification. 
 
-Leading from the actual requirements, the way to implement it, the software design, the test cases which are required to test the software, the actual implementation of test cases, the type of software life cycle needed to solve the issue all comes under specification. The code is also a kind of specification that will mention the actual implementation of how the problem will be solved.
+Leading from the actual requirements-
+1. The way to implement it.
+2. The software design.
+3. The test cases which are required to test the software.
+4. The actual implementation of test cases.
+5. The type of software life cycle needed to solve the issue.
+
+All the above come under specification. The code is also a kind of specification that will mention the actual implementation of how the problem will be solved.
 
 #### Translation
 
