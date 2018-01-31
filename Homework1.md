@@ -21,11 +21,14 @@ Example: Due to "invisibility" of the structure needed to craft a software, a cl
 
 ### Answer:
 
-Brooks in his paper takes about the various difficulties that has led to no solution that will lead to a magnitude if improvement in its productivity, reliability and simplicity. Further categorizing the difficulties in 2 parts namely essential and accidental difficulties he states that accidental difficulties are the one that most of the solutions are attacking and it won't be enough just to solve them.
+Brooks in his paper talks about the various difficulties that has plagued the software industry but has yielded no solution (of an order of magnitude improvement in productivity, reliability and simplicity). Further categorizing the difficulties into two parts namely essential and accidental difficulties, he states that accidental difficulties are the difficulties that most of the solutions are targeting and that isn't enough to demystify the woes of software engineering.
 
-According to Brooks, accidental difficulties are the one which are not inherent to the process of software development but are a part of a solution that is proposed to solve it. In the view of Brooks, accidental difficulties can be eliminated if we choose a different solution that will solve that accidental difficulty. But as no solution is 100% accurate it is safe to say that a new solution will lead to new accidental difficulties. So, any solution is not capable to solve all accidental difficulties.
+According to Brooks, accidental difficulties are not inherent to the process of software development but comes as a part of solving essential difficulties. In his purview, accidental difficulties can be eliminated with targeted solutions. However, no solution is 100% accurate, hence, it is safe to say each solution conceives its own set of difficulties. Thus, there is no panacea available!
 
-In his paper Brooks has given multiple examples of solutions that solved accidental difficulties. One of the most prominent being high level programming languages.  Writing in ancient languages that were prone to many syntax errors and had verbose syntax for many functionalities which newer languages like Python and C++ has made to be be compact and less prone to errors. Syntax errors are a type of accidental difficulty as it is not inherent to the process of software development but is caused by human errors. Current set of high level programming languages are also not immune to the accidental difficulties but they are definitely reduced as compared to the ancient low level programming languages.
+Brooks proceeds to present multiple examples of solutions that solved accidental difficulties. One of the most prominent being high level programming languages.  Writing in lower level languages (especially the dreaded machine level code) that were prone to syntax errors due to laborious syntactical formalities which newer languages like Java, Python and C++ has compacted in effect alleviating the mentioned problems.
+
+Example: Syntax errors are a type of accidental difficulty as it is not inherent to the process of software development but is caused by human errors. Current set of high level programming languages are not immune to all accidental difficulties, but they are definitely reduced as compared to the older low level programming languages.
+
 
 
 ### Question 3 : List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
