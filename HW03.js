@@ -11,7 +11,6 @@ let report = function(size) {
 let get_files = function(dir) {
   return new Promise(function(resolve, reject) {
     fs.readdir(dir, function(err, files) {
-      console.log(dir);
       if (err) {
         reject(err);
         return;
@@ -67,7 +66,7 @@ let gather = function(files) {
     let Type = info[1];
     if (Type=="File") {
       promises.push(get_size(name));
-    }else{
+    }else if(Type=="Dir"){
       promises.push(get_files(name).then(detect).then(gather).then(sum));
     }
   });
@@ -75,6 +74,9 @@ let gather = function(files) {
 }
 
 let sum = function(sizes) {
+  if(sizes.length==0){
+    return 0;
+  }
   return sizes.reduce((a,b) => a + b);
 }
 
