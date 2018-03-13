@@ -84,7 +84,8 @@ let print_it = function(items) {
   items.forEach( item => console.log(item))
 }
 
-let files = get_files('HW03_testcases/');
+let input = process.argv[2]
+let files = get_files(input);
 
 files.then(detect).then(gather).then(sum).then(report).catch(fail);
 // files.then(print_it);
