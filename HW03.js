@@ -84,7 +84,7 @@ let print_it = function(items) {
   items.forEach( item => console.log(item))
 }
 
-let files = get_files('C:/Users/prash/Desktop/Studies/FSE/Homework 1 and 3/HW03_testcases/');
+let files = get_files('HW03_testcases/');
 
 files.then(detect).then(gather).then(sum).then(report).catch(fail);
 // files.then(print_it);
