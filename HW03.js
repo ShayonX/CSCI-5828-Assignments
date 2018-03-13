@@ -1,8 +1,7 @@
 let fs = require('fs');
 
 let fail = function(err) { 
-  console.log("User error starts");
-  console.log(err); };
+  console.log("Error: Invalid Input or other anamolies detected!"); };
 
 let report = function(size) {
   console.log("Total size:", size);
