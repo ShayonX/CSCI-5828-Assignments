@@ -87,6 +87,3 @@ let input = process.argv[2]
 let files = get_files(input);
 
 files.then(detect).then(gather).then(sum).then(report).catch(fail);
-// files.then(print_it);
-// files.then(detect).then(print_it);
- //files.then(detect).then(gather).then(print_it);
