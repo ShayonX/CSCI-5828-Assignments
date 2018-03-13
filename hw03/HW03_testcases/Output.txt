@@ -1,0 +1,8 @@
+Test case 1 : 0 bytes
+Test case 2 : 21 bytes
+Test case 3 : 21 bytes
+Test case 4 : 42 bytes
+Test case 5 : 210 bytes
+Test case 6 : 630 bytes
+Test case 7 : 1575 bytes
+Test case 8 : 0 bytes
