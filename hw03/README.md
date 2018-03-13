@@ -1,6 +1,6 @@
-# CSCI-5828-Assignments
-Contains the assignments for the graduate course CSCI 5828 CU Boulder.
+# CSCI-5828-Assignments Spring 2018
+## Homework 3
 
-Collaborators for Homework 1 - Prashil Bhimani, Shayon Gupta
+Contains the assignment for the graduate course CSCI 5828 at CU Boulder.
 
-Collaborators for Homework 3 - Prashil Bhimani, Shayon Gupta
+Collaborators for Homework 3 - Prashil Bhimani and Shayon Gupta.
